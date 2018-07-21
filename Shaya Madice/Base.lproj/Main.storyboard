@@ -43,7 +43,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <action selector="rollDicePressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Nak-sx-oF3"/>
+                                    <action selector="rollaDice:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GlU-qM-Fyx"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -53,7 +53,6 @@
                     <connections>
                         <outlet property="leftDice" destination="yyX-yJ-WV4" id="zRg-4W-4wD"/>
                         <outlet property="rightDice" destination="uRk-hP-b1w" id="Scu-7n-AQD"/>
-                        <outlet property="rollDice" destination="C06-ES-1ci" id="0hB-m1-fkS"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
